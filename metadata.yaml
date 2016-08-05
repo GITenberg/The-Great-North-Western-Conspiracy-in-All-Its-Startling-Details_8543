@@ -1,0 +1,24 @@
+_repo: The-Great-North-Western-Conspiracy-in-All-Its-Startling-Details_8543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ayer, I. Windslow
+    alias: Ayer, Isaac Winslow
+    gutenberg_agent_id: '2792'
+    url: http://www.gutenberg.org/2009/agents/2792
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights of the Golden Circle'
+- !lcc 'E456'
+- !lcsh 'Northwestern Conspiracy, 1864'
+- GITenberg
+title: The Great North-Western Conspiracy in All Its Startling Details
+url: http://www.gutenberg.org/ebooks/8543
